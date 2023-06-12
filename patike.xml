@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proizvodi>
+  <proizvod>
+    <marka>Nike</marka>
+    <model>Air Jordan x Nike SB 4 'Pine Green' (2023)</model>
+    <cijena>200</cijena>
+    <slika>slike/a.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Nike</marka>
+    <model>Air Jordan 3 'White Cement' Reimagined (2023)</model>
+    <cijena>190</cijena>
+    <slika>slike/b.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Nike</marka>
+    <model>Air Jordan x Travis Scott 1 Low OG SP WMNS Olive (2023)</model>
+    <cijena>350</cijena>
+    <slika>slike/c.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Nike</marka>
+    <model>Air Jordan 4 'Thunder' (2023)</model>
+    <cijena>210</cijena>
+    <slika>slike/d.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Adidas</marka>
+    <model>Samba OG 'White' (2023)</model>
+    <cijena>150</cijena>
+    <slika>slike/e.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Adidas</marka>
+    <model>Adidas x BAPE Forum Low 30th Anniversary Green (2023)</model>
+    <cijena>200</cijena>
+    <slika>slike/f.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Adidas</marka>
+    <model>Adidas Campus 00s Grey Core Black (2023)</model>
+    <cijena>130</cijena>
+    <slika>slike/g.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>New Balance</marka>
+    <model>New Balance 550 Syracuse (2021)</model>
+    <cijena>110</cijena>
+    <slika>slike/h.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Yezzy</marka>
+    <model>Yeezy 350 V2 Onyx</model>
+    <cijena>300</cijena>
+    <slika>slike/i.jpg</slika>
+  </proizvod>
+  <proizvod>
+    <marka>Yezzy</marka>
+    <model>Yeezy Foam Runner Sand (2022)</model>
+    <cijena>270</cijena>
+    <slika>slike/j.jpg</slika>
+  </proizvod>
+</proizvodi>
